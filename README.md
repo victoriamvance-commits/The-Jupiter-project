@@ -1,7 +1,7 @@
 # The-Jupiter-project
 
 One-line tagline
-A reproducible Jupyter notebook that simulates a Jupiter gravitational signal embedded in noisy neural population activity and demonstrates a recovered “Jupiter-shaped” signal (correlation = 0.854).
+A reproducible Jupiter notebook that simulates a Jupiter gravitational signal embedded in noisy neural population activity and demonstrates a recovered “Jupiter-shaped” signal (correlation = 0.854).
 
 ## What this project is
 
