@@ -4,3 +4,5 @@ I’m computer simulating a real Jupiter gravitational signal with noise in the 
 Stage 1- simulating jupiter gravitational pulls
 
 Stage 2- Signal recovery in neuron populations with noise
+
+My latest finding is a Jupiter-shaped signal was recovered in a body of simulated neurons with a correlation of 0.854.
